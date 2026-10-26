@@ -1,5 +1,7 @@
 # SEMPT3X SMTP Checker
 
+> Dieses Programm wurde von [sempt3x](https://github.com/sempt3x) mit Unterstützung von KI erstellt.
+
 Ein Windows-Desktop-Tool (WPF, .NET 10) zum schnellen Testen von Mailserver-Konfigurationen. Die Anwendung prüft Schritt für Schritt DNS-Auflösung, Port-Erreichbarkeit, Verbindung, Authentifizierung und Übermittlung und sendet dabei eine echte Test-E-Mail – wahlweise über einen **klassischen SMTP-Server** oder über **Microsoft 365 (Microsoft Graph)**.
 
 ## Funktionen
@@ -102,7 +104,3 @@ SEMPT3X-SMTP-CHECKER/
 - C# / .NET 10 (`net10.0-windows`)
 - WPF mit MVVM-Muster
 - Keine externen NuGet-Abhängigkeiten
-
-## Entstehung
-
-Dieses Programm wurde von [sempt3x](https://github.com/sempt3x) mit Unterstützung von KI erstellt.

@@ -102,3 +102,7 @@ SEMPT3X-SMTP-CHECKER/
 - C# / .NET 10 (`net10.0-windows`)
 - WPF mit MVVM-Muster
 - Keine externen NuGet-Abhängigkeiten
+
+## Entstehung
+
+Dieses Programm wurde von [sempt3x](https://github.com/sempt3x) mit Unterstützung von KI erstellt.
